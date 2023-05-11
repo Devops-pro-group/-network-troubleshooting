@@ -1,5 +1,6 @@
-# -network-troubleshooting
-# Here some few u can  can use to troobleshoot your network 
+# Hi teams !!!
+
+# Here some few  commands u can use to troobleshoot your network 
 # 1 - Ping:  to test the connectivity between the user's computer and the website's server.
     Ping 
 # 2 - Traceroute:  To identify where the connection is failing.
