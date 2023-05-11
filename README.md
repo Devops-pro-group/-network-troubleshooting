@@ -11,7 +11,7 @@
         sudo apt-get install net-tools
         netsat -a
 # 4 - Tcpdump:  To diagnose network performance issues or identify network security problems.
-         tcpdum    
+         tcpdump    
        sudo apt install  wireshark-qt
 # 5 - Dig: This can help ensure that the user is accessing the correct IP address for the website
     dig 
