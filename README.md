@@ -1,3 +1,4 @@
+# Author: Ibrehima Keita Devops Engineer 
 # Hi teams !!!
 
 # Here some few  commands u can use to troobleshoot your network 
